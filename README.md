@@ -3,7 +3,7 @@
 ![dusloop's GitHub stats](https://github-readme-stats.vercel.app/api?username=dusloop&show_icons=true&theme=graywhite)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=duswns173)](https://solved.ac/duswns173/)
 
-# Skills 📖
+# I'm currently learning these things! 📖
 ### languages & platforms
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)

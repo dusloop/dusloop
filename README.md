@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Hi There!👋&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=Hi There👋&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
   
 ![dusloop's GitHub stats](https://github-readme-stats.vercel.app/api?username=dusloop&show_icons=true&theme=graywhite)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=duswns173)](https://solved.ac/duswns173/)
